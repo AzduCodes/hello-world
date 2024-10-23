@@ -1,4 +1,4 @@
-# hello-world
+# About Me / Repository
 This repository is for practicing the GitHub Flow, as well as introduce myself.
 My name is Azarya, I'm in my first year as a Computer Science major.
 I'm hoping to get into cybersecurity and am actively working on my communication skills.
